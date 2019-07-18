@@ -1,0 +1,6 @@
+INSERT INTO takeout.shop (sId, sName, sPassword, sTel, sAddress, managerName, managerEmail, sPictureUrl, score) VALUES (1, 'mai', '8d297af87cdef2dddeee8672e122dccd', '18308958589', '海韵一条街', '花展枝', 'mlfaf', null, 4.5);
+INSERT INTO takeout.shop (sId, sName, sPassword, sTel, sAddress, managerName, managerEmail, sPictureUrl, score) VALUES (2, '益合堂', '789954', '11111111111', '海韵一条街', 'hzoaixn', null, null, null);
+INSERT INTO takeout.shop (sId, sName, sPassword, sTel, sAddress, managerName, managerEmail, sPictureUrl, score) VALUES (3, '黄焖鸡', '444451', '10989786543', '海韵一条街', 'llll', null, null, 4.2);
+INSERT INTO takeout.shop (sId, sName, sPassword, sTel, sAddress, managerName, managerEmail, sPictureUrl, score) VALUES (4, '东北饺子馆', '3131093', '13959687541', '海韵下坡路', 'wangzi', '22@33', null, 1.0);
+INSERT INTO takeout.shop (sId, sName, sPassword, sTel, sAddress, managerName, managerEmail, sPictureUrl, score) VALUES (8, 'kaige', '18976', '17865453789', 'beijings', 'kaige', null, null, null);
+INSERT INTO takeout.shop (sId, sName, sPassword, sTel, sAddress, managerName, managerEmail, sPictureUrl, score) VALUES (9, 'bgjakgjjhk', '3131093', '12345654348', 'fahuajfj', null, null, null, null);
