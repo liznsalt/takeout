@@ -36,7 +36,7 @@
 
 2. 数据库配置在backend项目的resources目录下的application.yml文件中；由于本项目使用了阿里云的短信服务，所以要在backend项目下的`\common\util\SmsTool`里替换成自己的AK，如下图：
 
-   ![阿里短信服务](.\doc\开发文档\杂\阿里短信服务.png)
+   ![阿里短信服务](doc/开发文档/杂/阿里短信服务.png)
 
 3. 在IntelliJ IDEA中运行backend项目
 
